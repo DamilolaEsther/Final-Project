@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+     background: #470550;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card {
+    background-color: rgba(17, 15, 12, 0.432);
+    width: 350px;
+    height: 400px;
+    margin: 10px;
+    color: white;
+}
+
+.card-image {
+    height: 200px;
+    margin-bottom: 15px;
+    background-size: cover;
+    
+}
+
+
+.bts {
+    background-image: url("https://www.musicmundial.com/en/wp-content/uploads/2021/06/BTS-nearly-died-after-camera-caught-fire-during-Muster-Sowoozoo-1140x795.jpg");
+}
+
+.txt {
+ 
+    background-image: url("https://otakukart.com/wp-content/uploads/2021/05/TXT-F.jpg");
+}
+
+.blackpink {
+
+    background-image: url("https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2021/06/07/0b04d1b4-c4f9-11eb-b0c2-606eecf395cb_image_hires_152318.jpg?itok=Hd1S0lmB&v=1623050605"); 
+}
+
+.twice {
+
+    background-image: url("https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/d8/images/canvas/2021/11/11/d0b5cf74-e27c-4c73-be42-5f030b5d64f0_f9a0e910.jpg?itok=UhhiDacN&v=1636643594");
+
+}
+
+.straykids {
+    background-image:url("https://www.pinkvilla.com/imageresize/skz_in_life_concept_photo_main.jpg?width=752&format=webp&t=pvorg");
+}
+
+.enhypen {
+
+    background-image: url("https://www.koimoi.com/wp-content/new-galleries/2021/10/enhypen-aim-to-become-hottest-k-pop-group-001.jpg");
+
+}

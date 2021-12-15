@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+     background: #470550;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card {
+    background-color: rgba(17, 15, 12, 0.432);
+    width: 350px;
+    height: 400px;
+    margin: 10px;
+    color: white;
+}
+
+.card-image {
+    height: 200px;
+    margin-bottom: 15px;
+    background-size: cover;
+    
+}
+
+ 
+
+.doom {
+    background-image: url("https://korealandscape.net/wp-content/uploads/2021/07/doom-at-your-service-3_43.jpg");
+}
+
+.King {
+ 
+    background-image: url("https://pa1.narvii.com/7561/a68711dbc1796bb8bd52df23f41de645eb6626dcr4-480-270_00.gif");
+}
+
+.Happiness {
+
+    background-image: url("https://0.soompi.io/wp-content/uploads/2021/11/15143938/park-hyung-sik-han-hyo-joo6.gif"); 
+}
+
+.home {
+
+    background-image: url("https://i.pinimg.com/originals/ce/f9/3e/cef93e74a1f2780396ca56f197516f6a.gif");
+
+}
+
+.class {
+    background-image:url("https://m.media-amazon.com/images/M/MV5BODY1NWE2OTctOTU5MC00NTlmLWI2MzktMmYzMTUzYjk4YjEzXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg");
+}
+
+.odyssey{
+
+    background-image: url("https://6.vikiplatform.com/image/5a25a22d025542119cd2d41bcdd289f7.jpeg?x=b&a=0x0");
+}
+
